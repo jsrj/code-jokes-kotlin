@@ -7,6 +7,5 @@ import org.springframework.boot.runApplication
 class CodejokesApplication
 
 fun main(args: Array<String>) {
-    print("foo");
     runApplication<CodejokesApplication>(*args)
 }
